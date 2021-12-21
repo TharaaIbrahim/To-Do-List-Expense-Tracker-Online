@@ -1,0 +1,14 @@
+.weatherInfo {
+  display: flex;
+  width: 20%;
+  margin: 0% auto;
+  justify-content: center;
+}
+.weatherInfo > ul {
+  display: flex;
+  align-items: center;
+}
+
+.weatherInfo > ul > li {
+  margin-right: 1rem;
+}

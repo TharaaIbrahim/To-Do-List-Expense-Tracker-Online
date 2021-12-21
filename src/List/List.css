@@ -1,0 +1,16 @@
+.field {
+  background-color: white;
+}
+.check {
+  color: green;
+}
+.remove {
+  color: red;
+}
+
+.unChecked {
+  text-decoration: none;
+}
+.checked {
+  text-decoration: line-through;
+}

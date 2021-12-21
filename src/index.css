@@ -1,0 +1,20 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(41, 40, 40);
+}
+button:hover {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
